@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1065403809098",
+    "firebase_url": "https://offersdunia-6c74a.firebaseio.com",
+    "project_id": "offersdunia-6c74a",
+    "storage_bucket": "offersdunia-6c74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065403809098:android:20cf8a42c3591afd",
+        "android_client_info": {
+          "package_name": "ltd.platona.offersdunia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065403809098-6t4pel9c3dr5jf2bkjt3fae2pa687vif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ltd.platona.offersdunia",
+            "certificate_hash": "605637e7f0611e614e83640e6bfcebc2f3d6c763"
+          }
+        },
+        {
+          "client_id": "1065403809098-nk8lf4cg2eed0n1e8vmh0u3but42gt5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ltd.platona.offersdunia",
+            "certificate_hash": "7d5a207f3181ef7a28081924102ca3618517f1eb"
+          }
+        },
+        {
+          "client_id": "1065403809098-37pnq8bu6vn9q2pr8h69em0t8ih005fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlondwy-932zfok42jpWiF5TFWOYgH5Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065403809098-37pnq8bu6vn9q2pr8h69em0t8ih005fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
